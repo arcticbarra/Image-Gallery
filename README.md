@@ -1,3 +1,2 @@
 # Image-Gallery
-Image Gallery from photos I've taken
-Made using Bootstrap and font awesome.
+Image Gallery from photos I've taken made using Bootstrap and font awesome.
